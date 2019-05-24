@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Helga
+  m_Controller: {fileID: 9100000, guid: 6bb29913784c01940b873a8151eed100, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3aa4fb7698bf42345b1d1dea4663a3cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ca8ca43a1f6b33e4f836afc33262fecd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fc8f90c93ac04504ea04fb276e77c95c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aaf5d34674715be4a8aa31deda3adb0c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 96a4fc7401526c64682e5e23deba01c7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 96a4fc7401526c64682e5e23deba01c7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8ea590776a0ca794a9cb253c862232cd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8ea590776a0ca794a9cb253c862232cd, type: 2}

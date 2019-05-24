@@ -1,0 +1,15 @@
+{
+    "name": "Apkd.Pooling",
+    "references": [
+        "Apkd.Util",
+        "Apkd.Attributes"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

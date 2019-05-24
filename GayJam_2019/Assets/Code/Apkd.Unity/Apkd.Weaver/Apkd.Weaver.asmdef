@@ -1,0 +1,15 @@
+{
+    "name": "Apkd.Weaver",
+    "references": [
+        "Apkd.Injection",
+        "Apkd.Attributes",
+        "Apkd.Util",
+        "Apkd.Pooling"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

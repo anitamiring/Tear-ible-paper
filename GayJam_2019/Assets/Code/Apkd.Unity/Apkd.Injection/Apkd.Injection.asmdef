@@ -1,0 +1,8 @@
+{
+    "name": "Apkd.Injection",
+    "references": ["Apkd.Util"],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
