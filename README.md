@@ -1,2 +1,2 @@
-Tear-ible paper
+# Tear-ible paper
 Game created on TK gamejam 
